@@ -17,7 +17,7 @@ A simplified Redis clone in Python that supports basic Redis commands and includ
 Clone this repository or download the ZIP file and extract it.
 
 ### 2. Navigate to the Project Directory
-Open a terminal and navigate to the `mini_redis_clone` directory.
+Open a terminal and navigate to the `redis-clone-PY` directory.
 
 ### 3. Install Dependencies
 Use `pip` to install the required Python packages. Ensure you have Python 3.7 or above.

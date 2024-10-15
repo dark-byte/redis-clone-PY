@@ -3,5 +3,4 @@
 */.pytest_cache
 .pytest_cache
 tests/*
-web_app/*
 data_store.json
